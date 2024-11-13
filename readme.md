@@ -1,7 +1,9 @@
-echo "# js-api" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ItaloDutra22k/js-api.git
-git push -u origin main
+# Configurar servidor (express)
+
+# Criar endpoint
+
+# Configurar conexão banco de dados
+
+# Buscar com query e inserir com query (incluindo um campo em json)
+
+# Endpoint retornar o dado em json 
